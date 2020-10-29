@@ -1,6 +1,6 @@
 STATS
 
-description de comment installer ce projet
+description de comment installer cette bite
 
 etc
 
