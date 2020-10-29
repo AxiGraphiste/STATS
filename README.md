@@ -1,5 +1,5 @@
 STATS
 
-description de comment installer
+description de comment installer ce projet
 
 etc
