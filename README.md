@@ -1,6 +1,6 @@
 STATS
 
-description de comment installer ce projet
+description de comment installer ce projet. Par ailleurs, prout.
 
 etc
 
